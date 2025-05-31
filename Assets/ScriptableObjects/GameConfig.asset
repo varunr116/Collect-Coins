@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 8c8d488898241433cbefe4fb8ef67d57, type: 3}
+  m_Name: GameConfig
+  m_EditorClassIdentifier: 
+  gameDuration: 30
+  coinSpawnInterval: 1.5
+  defaultPointsPerCoin: 1
+  initialPoolSize: 10
+  maxPoolSize: 20
+  coinLifetime: 3
+  coinSpawnDuration: 0.3
+  coinCollectDuration: 0.2
+  coinRotationSpeed: 180
+  leftBoundary: 0.1
+  rightBoundary: 0.9
+  bottomBoundary: 0.2
+  topBoundary: 0.8
+  enableDifficultyProgression: 0
+  minSpawnInterval: 0.8
+  difficultyRampTime: 15
+  enableComboSystem: 0
+  maxComboMultiplier: 2
+  coinsForMaxCombo: 5
+  comboTimeWindow: 2
