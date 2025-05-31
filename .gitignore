@@ -1,0 +1,11 @@
+Library/
+Temp/
+Build/
+Builds/
+obj/
+bin/
+UserSettings/
+Logs/
+.vscode/
+.csproj
+.utmp/
